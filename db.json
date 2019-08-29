@@ -1,0 +1,9 @@
+{
+"Employee" : [
+{"id":1,"name":"asu","salary":12000,"job":"java"},
+{"id":2,"name":"akash","salary":22000,"job":"javaScript"},
+{"id":3,"name":"jaga","salary":52000,"job":"html"},
+{"id":4,"name":"pabi","salary":9000,"job":"C"},
+{"id":5,"name":"pintu","salary":12000,"job":"java"},
+]
+}
